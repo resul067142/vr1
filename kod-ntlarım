@@ -4,3 +4,6 @@ npm install -g @vue/cli
 yeni vue projesi oluturmak için 
 vue create hello-world
 
+proje ayaga kaldırma
+npm run serve
+
