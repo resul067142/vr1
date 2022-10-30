@@ -1,0 +1,6 @@
+pc ye vue ilk kuruldugunda 1 kez bu kod calıstırılır.
+npm install -g @vue/cli
+
+yeni vue projesi oluturmak için 
+vue create hello-world
+
